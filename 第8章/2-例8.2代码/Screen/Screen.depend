@@ -1,0 +1,92 @@
+# depslib dependency file v1.0
+1628045812 source:c:\users\xusha\documents\info\test\screen\main.c
+	"screen.h"
+
+1596157163 c:\users\xusha\documents\info\test\screen\light.h
+
+1624245413 source:c:\users\xusha\documents\info\test\screen\screen.c
+	"screen.h"
+
+1618555219 c:\users\xusha\documents\info\test\screen\screen.h
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+
+1611457306 source:c:\users\xusha\documents\info\test\screen\box.c
+	"screen.h"
+
+1610890956 source:c:\users\xusha\documents\info\test\screen\snake.c
+	"screen.h"
+
+1610893502 source:c:\users\xusha\documents\info\test\screen\breakout.c
+	"screen.h"
+
+1612170772 source:c:\users\xusha\documents\info\test\screen\tertis.c
+	"screen.h"
+
+1613810871 source:c:\users\xusha\documents\info\test\screen\plane.c
+	"screen.h"
+
+1611924116 source:c:\users\xusha\documents\info\test\screen\bird.c
+	"screen.h"
+	"savedata.h"
+
+1611027995 source:c:\users\xusha\documents\info\test\screen\savedata.c
+	<stdio.h>
+	"savedata.h"
+
+1611027942 source:c:\users\xusha\documents\info\test\screen\maps.c
+	"screen.h"
+	"savedata.h"
+
+1611027995 c:\users\xusha\documents\info\test\screen\savedata.c
+	<stdio.h>
+	"savedata.h"
+
+1611027555 c:\users\xusha\documents\info\test\screen\savedata.h
+
+1622254501 source:c:\users\xusha\documents\info\test\screen\test.c
+	"screen.h"
+	<stdio.h>
+	<stdlib.h>
+
+1613784150 source:c:\users\xusha\documents\info\test\screen\createtertis.c
+	"screen.h"
+
+1617107055 source:c:\users\xusha\documents\info\test\screen\sweetlove.c
+	"screen.h"
+
+1613789017 source:c:\users\xusha\documents\info\test\screen\countdown.c
+	"screen.h"
+
+1613899364 source:c:\users\xusha\documents\info\test\screen\character.c
+	"screen.h"
+
+1629553865 source:c:\users\xusha\desktop\screen\screen.c
+	"screen.h"
+
+1628245808 c:\users\xusha\desktop\screen\screen.h
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+
+1629607542 source:c:\users\xusha\desktop\screen\main.c
+	"screen.h"
+
+1629618456 source:c:\xs\教材辅助资料\代码\第8章\2-例8.2代码\screen\main.c
+	"screen.h"
+
+1628245810 c:\xs\教材辅助资料\代码\第8章\2-例8.2代码\screen\screen.h
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+
+1629553866 source:c:\xs\教材辅助资料\代码\第8章\2-例8.2代码\screen\screen.c
+	"screen.h"
+
